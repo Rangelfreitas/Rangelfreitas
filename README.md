@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rangelfreitas
 - 👀 I’m interested in learn
-- 🌱 I'm currently learning to program in flutter
+- 🌱 I'm currently learning by studying front-end
 - 💞️ I'm looking to collaborate in different activities.
 - 📫 How to reach me: instagram.com/rangel.freitas/ ------ linkedin.com/in/rangel-freitas97/
 
